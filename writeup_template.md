@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image4]: ./dataset/test-images/1_1.png "Traffic Sign 1"
 [image5]: ./dataset/test-images/8_1.png "Traffic Sign 2"
 [image6]: ./dataset/test-images/14_2.png "Traffic Sign 3"
-[image7]: ./dataset/test-images/30_2.png"  Traffic Sign 4"
+[image7]: ./dataset/test-images/30_2.png " Traffic Sign 4"
 [image8]: ./dataset/test-images/7_1.png "Traffic Sign 5"
 [image9]:./examples/resampled_data_distribution.png "resampled"
 
